@@ -23,7 +23,7 @@ file.csv can be imported in homebank (<=4.4. If you're using homebank >=4.5 ther
 Version Française
 =================
 
-bnppdf est un petit script perl capable de lire les relevés de comptes PDF de BNP PARIBAS et d'extraire les données à importer logiciel de gestion de finances personnelles.
+bnppdf est un petit script perl capable de lire les relevés de comptes PDF de BNP PARIBAS et d'extraire les données à importer dans un logiciel de gestion de finances personnelles.
 
 Pour le moment, seul le format de fichier CSV utilisé par [homebank](http://homebank.free.fr/) est pris en charge, mais il devrait être facile à adapter.
 
