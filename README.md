@@ -38,4 +38,4 @@ Pour utiliser le script:
     $ pdttotext -layout fichier.pdf fichier.txt
     $ bnppdf.pl fichier.txt > fichier.csv
 
-le csv est importable dans homebank (<=4.4. Pour une version >=4.5 y'a une modification à faire dans le script, voir les commentaires dans le source) 
+le csv est importable dans homebank (<=4.4. Pour une version >=4.5 il y a une modification à faire dans le script, voir les commentaires dans le source) 
