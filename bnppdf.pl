@@ -1,4 +1,10 @@
 #!/usr/bin/perl
+
+# Copyright (c) 2015, Olivier Guerrier <olivier@guerrier.com>
+#
+# This software may be modified and distributed under the terms
+# of the MIT license. See the LICENSE file for details.
+
 use strict;
 use warnings;
 
