@@ -13,6 +13,13 @@ I will be happy to get feedback.
 
 This software may be modified and distributed under the terms of the MIT license. See the LICENSE file for details.
 
+To use the script:
+
+    $ pdttotext -layout file.pdf file.txt
+    $ bnppdf.pl file.txt > file.csv
+
+file.csv can be imported in homebank (<=4.4. If you're using homebank >=4.5 there is a small change to do inside the script, see the comments inside the source file) 
+
 Version Française
 =================
 
@@ -25,3 +32,10 @@ Il a été testé avec succès sur une douzaine de comptes, sur 4 ans d'historiq
 Je serais heureux d'avoir des retours.
 
 Le logiciel est mis à disposition sous la licence MIT. Voir le fichier joint pour le texte intégral.
+
+Pour utiliser le script:
+
+    $ pdttotext -layout fichier.pdf fichier.txt
+    $ bnppdf.pl fichier.txt > fichier.csv
+
+le csv est importable dans homebank (<=4.4. Pour une version >=4.5 y'a une modification à faire dans le script, voir les commentaires dans le source) 
